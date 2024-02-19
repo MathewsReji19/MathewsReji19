@@ -1,16 +1,20 @@
-### Hi there 👋
+# About Myself,
 
-<!--
-**MathewsReji19/MathewsReji19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Mathews Reji, a B.Tech Computer Science & Engineering student at Saintgits College of Engineering in my 2nd year. I'm passionate about building software solutions and exploring emerging technologies.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming Languages: Python, Java, C,C++
+* Soft Skills: Teamwork, Communication, Problem-Solving, Presentation Skills
+
+## Interests
+
+* Machine Learning
+* Web Development
+* Racing
+
+## Contact
+
+* LinkedIn: www.linkedin.com/in/mathews-reji-9870b0290
+
+I'm always looking for new opportunities to learn and collaborate. Feel free to reach out!
