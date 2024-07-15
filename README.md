@@ -1,6 +1,6 @@
 # About Myself,
 
-Hi! I'm Mathews Reji, a B.Tech Computer Science & Engineering student at Saintgits College of Engineering in my 2nd year. I'm passionate about building software solutions and exploring emerging technologies.
+Hi! I'm Mathews Reji, ![](https://komarev.com/ghpvc/?username=Mathews-Reji) a B.Tech Computer Science & Engineering student at Saintgits College of Engineering in my 2nd year. I'm passionate about building software solutions and exploring emerging technologies.
 
 ## Skills
 
@@ -13,9 +13,8 @@ Hi! I'm Mathews Reji, a B.Tech Computer Science & Engineering student at Saintgi
 * Web Development
 * Racing
 
-![](https://komarev.com/ghpvc/?username=Mathews-Reji)
 ## Contact
 
-* LinkedIn: www.linkedin.com/in/mathews-reji-9870b0290
+* LinkedIn: [Mathews Reji](www.linkedin.com/in/mathews-reji-9870b0290)
 
 I'm always looking for new opportunities to learn and collaborate. Feel free to reach out!
